@@ -1,3 +1,4 @@
+这个是我找到目前非常好的win项目
 # yolo2  
 该项目是https://pjreddie.com/darknet/yolo 的keras(backend:tensorflow)实现，原项目是一个可实时进行track object的项目。作者原有实现是C语言的。本项目结合作者该篇文章以及其之前的若干篇文章写出了基于keras的代码。
 
